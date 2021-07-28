@@ -1,5 +1,11 @@
-Hey! My name is Mikhail Goloto, and I'm frontend developer.
+Hey! My name is Mikhail Goloto, and I'm frontend developer and have 2+ years experience of web developing.
 
-I love React, TypeScript and JavaScript and have 2+ years experience of web developing.
+I'm familiar with next technologies:
+ * JavaScript/TypeScript
+ * React
+ * Redux/Redux-saga
+ * MaterialUI
+ * HTML
+ * CSS/SCSS/CSS-in-JS
 
 ![image of my codewars.com profile](https://www.codewars.com/users/goloto/badges/small)
