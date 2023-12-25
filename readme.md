@@ -1,4 +1,4 @@
-Hey! My name is Mikhail Goloto, and I'm frontend developer and have 2+ years experience of web developing.
+Hey! My name is Mikhail Goloto, and I'm frontend developer and have 4+ years experience of web developing.
 
 I'm familiar with next technologies:
  * JavaScript/TypeScript
